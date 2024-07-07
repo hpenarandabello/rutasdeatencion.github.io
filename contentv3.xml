@@ -392,7 +392,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="295"></int>
+                        <int value="361"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -406,7 +406,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="2_116_2.4"></unicode>
+                      <unicode value="2_116_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="10">
                        <dictionary>
@@ -417,7 +417,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Rutas_de_atencion_violencia_intrafamiliar.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/Rutas_de_atencion_violencia_intrafamiliar.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/Rutas_de_atencion_violencia_intrafamiliar.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b54dfa33211fd3f3a063eaf32ae269df"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -446,7 +446,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="9"></reference>
                 </dictionary>
@@ -549,6 +549,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.7.png&quot; width=&quot;999&quot; height=&quot;682&quot; alt=&quot;Diagrama de flujo de ruta de atención violencia intrafamiliar.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -570,7 +572,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="338"></int>
+                        <int value="368"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -584,7 +586,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="23_122_2.0"></unicode>
+                      <unicode value="23_122_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="13">
                        <dictionary>
@@ -595,7 +597,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.7.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.7.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="a045eb50eda9dc00a395bbfd9981aca2"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -624,7 +626,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="9"></reference>
                 </dictionary>
@@ -754,6 +756,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;En el contexto de las rutas de atención escolar en Colombia, &quot;&lt;strong&gt;consume SPA&lt;/strong&gt;&quot; se refiere a &quot;consumo de Sustancias Psicoactivas&quot;. Esto abarca situaciones donde estudiantes pueden estar involucrados en el consumo de drogas o sustancias que afectan su comportamiento y salud. Es crucial que las instituciones educativas tengan protocolos claros para identificar, intervenir y ofrecer apoyo adecuado a los estudiantes que enfrentan problemas relacionados con el consumo de sustancias psicoactivas dentro del entorno escolar.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -778,7 +782,7 @@
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="16"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -900,7 +904,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="292"></int>
+                        <int value="356"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -914,7 +918,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="4_118_2.4"></unicode>
+                      <unicode value="4_118_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="19">
                        <dictionary>
@@ -925,7 +929,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Rutas_de_atencion_consumo_de_sustancias_psicoactivas.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/Rutas_de_atencion_consumo_de_sustancias_psicoactivas.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/Rutas_de_atencion_consumo_de_sustancias_psicoactivas.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="75bd2befc2c7a9d72f2470eda1ee8612"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -954,7 +958,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="16"></reference>
                 </dictionary>
@@ -1057,6 +1061,8 @@
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.6.png&quot; width=&quot;999&quot; height=&quot;684&quot; alt=&quot;Diagrama de flujo para el consumo de sustancias psicoactivas.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1078,7 +1084,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="339"></int>
+                        <int value="365"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1092,7 +1098,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="26_125_2.0"></unicode>
+                      <unicode value="26_125_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="22">
                        <dictionary>
@@ -1103,7 +1109,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.6.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.6.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4f12b392c30ed47445ce692eb666551a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1132,7 +1138,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="16"></reference>
                 </dictionary>
@@ -1285,7 +1291,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="296"></int>
+                        <int value="364"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1299,7 +1305,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="5_119_2.4"></unicode>
+                      <unicode value="5_119_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="26">
                        <dictionary>
@@ -1310,7 +1316,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Rutas_de_atencion_delitos_informaticos.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/Rutas_de_atencion_delitos_informaticos.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/Rutas_de_atencion_delitos_informaticos.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="df5e660c24cf4c2ca44ffd09616ed27f"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1339,7 +1345,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="25"></reference>
                 </dictionary>
@@ -1492,7 +1498,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="294"></int>
+                        <int value="360"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1506,7 +1512,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="6_120_2.4"></unicode>
+                      <unicode value="6_120_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="30">
                        <dictionary>
@@ -1517,7 +1523,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Rutas_de_atencion_violencia_sexual.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/Rutas_de_atencion_violencia_sexual.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/Rutas_de_atencion_violencia_sexual.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="b0c280c25ce622aacf8742c7e3531600"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1546,7 +1552,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="29"></reference>
                 </dictionary>
@@ -1699,7 +1705,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="291"></int>
+                        <int value="355"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1713,7 +1719,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="7_121_2.4"></unicode>
+                      <unicode value="7_121_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="34">
                        <dictionary>
@@ -1724,7 +1730,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="Rutas_de_atencion_conducta_suicida.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/Rutas_de_atencion_conducta_suicida.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/Rutas_de_atencion_conducta_suicida.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="d89d1658f18aba378647cd225eb66ff5"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1753,7 +1759,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="33"></reference>
                 </dictionary>
@@ -1908,7 +1914,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="290"></int>
+                        <int value="354"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1922,7 +1928,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="9_114_2.2"></unicode>
+                      <unicode value="9_114_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="38">
                        <dictionary>
@@ -1933,7 +1939,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="cc28b83a3b054e6e81dac3e75542c3a1"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1962,7 +1968,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="37"></reference>
                 </dictionary>
@@ -2117,7 +2123,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="293"></int>
+                        <int value="359"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2131,7 +2137,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="10_115_2.2"></unicode>
+                      <unicode value="10_115_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="42">
                        <dictionary>
@@ -2142,7 +2148,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/img0.1.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="344a0ce7ab4933cbc3075e9d0e8186c3"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2171,7 +2177,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="41"></reference>
                 </dictionary>
@@ -2325,7 +2331,7 @@
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="297"></int>
+                        <int value="366"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2339,7 +2345,7 @@
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="11_116_2.2"></unicode>
+                      <unicode value="11_116_2.3"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="46">
                        <dictionary>
@@ -2350,7 +2356,7 @@
                         <string role="key" value="_storageName"></string>
                         <string value="img0.2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpsGUv7e/img0.2.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4a05032e4db5fd8e71b982bfc7fc1e49"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2379,7 +2385,7 @@
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="3"></int>
+                 <int value="4"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="45"></reference>
                 </dictionary>
@@ -2769,6 +2775,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Las siguientes son las &lt;strong&gt;rutas de atención&lt;/strong&gt; que requieren &lt;strong&gt;reporte al CRUE&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/img0.3.png&quot; width=&quot;554&quot; height=&quot;139&quot; alt=&quot;Rutas de atención que deben reportar al CRUE.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -2791,7 +2799,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="298"></int>
+                        <int value="357"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -2805,7 +2813,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="16_115_2.0"></unicode>
+                      <unicode value="16_115_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="54">
                        <dictionary>
@@ -2816,7 +2824,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="90a3c8401dc4fd93c1727109098a6cca"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2845,7 +2853,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="49"></reference>
                 </dictionary>
@@ -2975,6 +2983,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;El &lt;strong&gt;ICBF&lt;/strong&gt; (Instituto Colombiano de Bienestar Familiar) es una entidad estatal de Colombia que tiene como misión proteger y promover el bienestar de las familias y los niños, niñas y adolescentes en el país. Fue creado en 1968 y se encarga de garantizar los derechos de los menores de edad y brindar apoyo a las familias para su desarrollo integral.&lt;/p&gt;
 &lt;h3&gt;Principales funciones del ICBF:&lt;/h3&gt;
@@ -3010,7 +3020,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="57"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3109,6 +3119,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Las siguientes son las &lt;strong&gt;rutas de atención&lt;/strong&gt; que requieren reporte al &lt;strong&gt;ICBF&lt;/strong&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/img0.4.png&quot; width=&quot;385&quot; height=&quot;144&quot; alt=&quot;Rutas de atención que deben reportar al ICBF.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
@@ -3131,7 +3143,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="303"></int>
+                        <int value="363"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3145,7 +3157,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="17_116_2.0"></unicode>
+                      <unicode value="17_116_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="60">
                        <dictionary>
@@ -3156,7 +3168,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="0acfb7f7641c25d87471d788d58f68d6"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3185,7 +3197,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="57"></reference>
                 </dictionary>
@@ -3315,6 +3327,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: justify;&quot;&gt;La &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; (Sistema de Información Unificado de Convivencia Escolar) es una herramienta utilizada en Colombia para registrar, gestionar y monitorear los casos relacionados con la convivencia escolar. Esta plataforma facilita la recolección de datos y el seguimiento de incidentes que afectan la convivencia en las instituciones educativas, como el acoso escolar, la violencia, el abuso sexual y otras situaciones que impactan el entorno escolar.&lt;/p&gt;
 &lt;h3 style=&quot;text-align: justify;&quot;&gt;Principales funciones de la plataforma SIUCE:&lt;/h3&gt;
@@ -3350,7 +3364,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <none></none>
+                 <reference key="63"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3476,6 +3490,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.5.png&quot; width=&quot;799&quot; height=&quot;608&quot; alt=&quot;Entrega y ejecución del PIAR.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3497,7 +3513,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="336"></int>
+                        <int value="362"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3511,7 +3527,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="21_120_2.0"></unicode>
+                      <unicode value="21_120_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="67">
                        <dictionary>
@@ -3522,7 +3538,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.5.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.5.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="59185ea6df4aa1e93dc5f722e998c70a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3551,7 +3567,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="66"></reference>
                 </dictionary>
@@ -3681,6 +3697,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.8.png&quot; width=&quot;999&quot; height=&quot;691&quot; alt=&quot;Diagrama de flujo si nuestros estudiantes sufren accidentes.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3702,7 +3720,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="346"></int>
+                        <int value="369"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3716,7 +3734,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="27_126_2.0"></unicode>
+                      <unicode value="27_126_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="71">
                        <dictionary>
@@ -3727,7 +3745,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.8.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.8.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="eefd69928ac93874328f51ec539bb205"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3756,7 +3774,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="70"></reference>
                 </dictionary>
@@ -3886,6 +3904,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.9.png&quot; width=&quot;999&quot; height=&quot;707&quot; alt=&quot;Diagrama de flujo de ruta de atención por agresión y/o acoso escolar.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -3907,7 +3927,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="347"></int>
+                        <int value="358"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3921,7 +3941,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="28_127_2.0"></unicode>
+                      <unicode value="28_127_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="75">
                        <dictionary>
@@ -3932,7 +3952,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.9.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.9.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5a9cb86959c77defc451c9896a698b23"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3961,7 +3981,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="74"></reference>
                 </dictionary>
@@ -4091,6 +4111,8 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string value=""></string>
                  <string role="key" value="anchor_names"></string>
                  <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/img0.10.png&quot; width=&quot;971&quot; height=&quot;618&quot; alt=&quot;Artículo 40. Clasificación de las situaciones.&quot; /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4112,7 +4134,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="348"></int>
+                        <int value="367"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -4126,7 +4148,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="29_128_2.0"></unicode>
+                      <unicode value="29_128_2.1"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="79">
                        <dictionary>
@@ -4137,7 +4159,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                         <string role="key" value="_storageName"></string>
                         <string value="img0.10.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpb5RVYe.eXe/previews/img0.png"></string>
+                        <string value="/tmp/tmpUuwMTQ/img0.10.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="c244bd0528fc6ca3305069fd027b88ba"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4166,7 +4188,7 @@ var InteractiveVideo = {&quot;slides&quot;:[{&quot;type&quot;:&quot;multipleChoi
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="1"></int>
+                 <int value="2"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="78"></reference>
                 </dictionary>
@@ -5702,7 +5724,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
 &lt;li&gt;Informar al rector(a), coordinador(a) y/u orientador(a) escolar.&lt;/li&gt;
 &lt;li&gt;Convovar al comité de convivencia escolar y hacer levantaminto de actas.&lt;/li&gt;
 &lt;li&gt;Realizar acciones de promoción y prevención.&lt;/li&gt;
-&lt;li&gt;Reportar en la plataforma SIUCE.&lt;/li&gt;
+&lt;li&gt;Reportar en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;.&lt;/li&gt;
 &lt;/ul&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
@@ -5757,7 +5779,10 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="anchors_linked_from_fields"></string>
                       <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Llamar a la Policía de Infancia y Adolescencia.&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;ul&gt;
+&lt;li&gt;Llamar a la Policía de Infancia y Adolescencia.&lt;/li&gt;
+&lt;li&gt;Reportar en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -5811,7 +5836,10 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="anchors_linked_from_fields"></string>
                       <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Denuncia ante Fiscalía General de la Nación.&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;ul&gt;
+&lt;li&gt;Denuncia ante Fiscalía General de la Nación.&lt;/li&gt;
+&lt;li&gt;Reportar en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;.&lt;/li&gt;
+&lt;/ul&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -6521,6 +6549,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;&lt;strong&gt;Rutas de atención&lt;/strong&gt; que requieren reporte ante el &lt;strong&gt;CRUE&lt;/strong&gt;:&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6545,7 +6575,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -6584,6 +6614,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención violencia intrafamiliar.&lt;/li&gt;
@@ -6611,7 +6643,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6639,6 +6671,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención consumo de sustancias psicoactivas.&lt;/li&gt;
@@ -6666,7 +6700,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6694,6 +6728,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención violencia intrafamiliar.&lt;/li&gt;
@@ -6721,7 +6757,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6754,6 +6790,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;¿Las iniciales de &lt;strong&gt;ICBF&lt;/strong&gt; hacen referencia a?&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6778,7 +6816,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -6817,6 +6855,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Instituto Colombiano de Bienestar Familiar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6841,7 +6881,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6869,6 +6909,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Instituto Central de Bienestar Familiar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6893,7 +6935,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6921,6 +6963,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Instituto Colombiano de Beneficencia Familiar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6945,7 +6989,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -6973,6 +7017,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Instituto de Cuidado y Bienestar Familiar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -6997,7 +7043,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7030,6 +7076,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;&lt;strong&gt;Rutas de atención&lt;/strong&gt; que requieren reporte ante el &lt;strong&gt;ICBF&lt;/strong&gt;:&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7054,7 +7102,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -7093,6 +7141,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención violencia intrafamiliar.&lt;/li&gt;
@@ -7120,7 +7170,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7148,6 +7198,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención consumo de sustancias psicoactivas.&lt;/li&gt;
@@ -7175,7 +7227,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7203,6 +7255,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;ul&gt;
 &lt;li&gt;Ruta de atención violencia intrafamiliar.&lt;/li&gt;
@@ -7230,7 +7284,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7263,6 +7317,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;¿Las iniciales de &lt;strong&gt;SIUCE&lt;/strong&gt; hacen referencia a?&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7287,7 +7343,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -7326,6 +7382,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Sistema Integral Unificado de Convivencia Escolar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7350,7 +7408,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7378,6 +7436,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Sistema de Integración y Unidad de Convivencia Escolar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7402,7 +7462,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7430,6 +7490,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Sistema Informático Unificado de Control Escolar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7454,7 +7516,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7482,6 +7544,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Sistema de Información Unificado de Convivencia Escolar&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7506,7 +7570,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7539,6 +7603,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;&lt;strong&gt;Todas&lt;/strong&gt; las &lt;strong&gt;rutas de atención&lt;/strong&gt; deben en su último paso reportar en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;.&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7563,7 +7629,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -7602,6 +7668,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Verdadero.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7626,7 +7694,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7654,6 +7722,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Falso.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7678,7 +7748,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7711,6 +7781,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;h3&gt;Caso:&lt;/h3&gt;
 &lt;p&gt;María es una estudiante de 8º grado en una institución educativa en Bogotá. Recientemente, ha sido víctima de acoso escolar por parte de algunos compañeros de clase. La situación ha afectado su rendimiento académico y bienestar emocional. El profesor de María se dio cuenta de lo que estaba sucediendo y decidió actuar conforme a los protocolos establecidos por la institución.&lt;/p&gt;
@@ -7738,7 +7810,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -7777,8 +7849,10 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Hablar solo con los estudiantes involucrados sin registrar el incidente en la plataforma SIUCE.&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;p&gt;Recepción de la situación, informar al rector, hablar solo con los estudiantes involucrados sin registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7801,7 +7875,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7829,6 +7903,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Esperar a que la situación se resuelva por sí sola antes de tomar cualquier acción.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -7853,7 +7929,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7881,8 +7957,10 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Registrar el incidente en la plataforma SIUCE, informar a las autoridades escolares, y asegurar el seguimiento del caso.&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;p&gt;Recepción de la situación, informar al rector, registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;, informar a las autoridades escolares, y asegurar el seguimiento del caso.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7905,7 +7983,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7933,8 +8011,10 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
-                      <unicode content="true" value="&lt;p&gt;Informar a los padres de los estudiantes involucrados sin utilizar la plataforma SIUCE para mantener el caso en privado.&lt;/p&gt;"></unicode>
+                      <unicode content="true" value="&lt;p&gt;Recepción de la situación, informar al rector, informar a los padres de los estudiantes involucrados sin utilizar la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; para mantener el caso en privado.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                       <int value="4"></int>
                       <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -7957,7 +8037,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -7990,11 +8070,13 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;h3&gt;Caso:&lt;/h3&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;En el Colegio San José, durante el segundo trimestre del año, se reportaron múltiples incidentes de violencia escolar y acoso entre los estudiantes. El Comité de Convivencia Escolar ha notado un aumento significativo en estos incidentes, lo que ha generado preocupación entre padres, docentes y directivos.&lt;/p&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;Un estudiante, Juan, ha sido víctima recurrente de acoso físico y verbal por parte de un grupo de compañeros. La situación ha escalado hasta el punto en que Juan se niega a asistir a clases. El orientador escolar, tras recibir la queja de los padres de Juan, decide actuar de inmediato.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador escolar debe utilizar la plataforma SIUCE para gestionar el caso y asegurar una intervención adecuada. Además, el Comité de Convivencia Escolar debe implementar estrategias para prevenir futuros incidentes y mejorar el ambiente escolar.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador escolar debe utilizar la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; para gestionar el caso y asegurar una intervención adecuada. Además, el Comité de Convivencia Escolar debe implementar estrategias para prevenir futuros incidentes y mejorar el ambiente escolar.&lt;/p&gt;
 &lt;h3 style=&quot;text-align: justify;&quot;&gt;Pregunta:&lt;/h3&gt;
 &lt;p&gt;¿Cuáles son los pasos detallados que debe seguir el orientador escolar utilizando la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; para gestionar adecuadamente el caso de Juan y qué medidas adicionales debería tomar el Comité de Convivencia Escolar para abordar el aumento de incidentes de violencia escolar?&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8019,7 +8101,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -8058,6 +8140,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador debe registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;, informar al rector y convocar una reunión con los padres de los agresores. El Comité debe organizar talleres sobre convivencia y respeto para los estudiantes y capacitar a los docentes en manejo de conflictos.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8082,7 +8166,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8110,6 +8194,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador debe registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt;, pero no es necesario informar al rector ni tomar medidas adicionales. El Comité debe simplemente observar si los incidentes disminuyen por sí solos.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8134,7 +8220,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8162,6 +8248,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador debe registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; y asegurarse de informar al rector sobre el caso de Juan. Además, debe realizar seguimiento continuo del caso, incluyendo reuniones periódicas con sus padres y los docentes involucrados. El Comité debe diseñar e implementar un plan integral de convivencia escolar, realizar campañas de sensibilización y monitorear regularmente el clima escolar.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8186,7 +8274,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8214,6 +8302,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;El orientador debe hablar directamente con los estudiantes agresores y sus padres sin registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; para evitar crear un registro formal. El Comité debe ignorar los incidentes menores y enfocarse solo en los casos graves.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8238,7 +8328,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8271,6 +8361,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;h3 style=&quot;text-align: justify;&quot;&gt;Caso:&lt;/h3&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;En el Colegio Santa Ana, ubicado en una zona rural de Colombia, se ha reportado un incidente grave durante el horario escolar. Un estudiante ha sufrido una lesión severa mientras participaba en una actividad deportiva en el campo de fútbol. La lesión parece ser una fractura de hueso y requiere atención médica urgente.&lt;/p&gt;
@@ -8299,7 +8391,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -8338,6 +8430,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Coordinar el traslado inmediato del estudiante a un centro de salud adecuado y comunicar la situación a los padres del estudiante y a las autoridades escolares.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8362,7 +8456,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8390,6 +8484,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Evaluar el estado emocional del estudiante afectado y proporcionar asesoramiento psicológico a los testigos del incidente.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8414,7 +8510,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8442,6 +8538,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Realizar un informe detallado del incidente y enviarlo a las autoridades municipales para revisión y seguimiento.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8466,7 +8564,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8494,6 +8592,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Implementar medidas de seguridad adicionales en el campo deportivo para prevenir futuros accidentes durante las actividades escolares.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8518,7 +8618,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8551,6 +8651,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;p&gt;¿Las iniciales de &lt;strong&gt;NNA&lt;/strong&gt; hacen referencia a?&lt;/p&gt;"></unicode>
                    <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8575,7 +8677,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -8614,6 +8716,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Niños y Niñas Adolescentes&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8638,7 +8742,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8666,6 +8770,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Niños, Niñas y Adultos&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8690,7 +8796,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8718,6 +8824,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Niño, Niña y Adolescente&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8742,7 +8850,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8770,6 +8878,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p&gt;Nada mencionado anteriormente&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8794,7 +8904,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8827,6 +8937,8 @@ as these can tend to be ambiguous."></unicode>
                    <unicode value="Question:"></unicode>
                    <string role="key" value="anchor_names"></string>
                    <list></list>
+                   <string role="key" value="anchors_linked_from_fields"></string>
+                   <dictionary></dictionary>
                    <string role="key" value="content_w_resourcePaths"></string>
                    <unicode content="true" value="&lt;h3&gt;Caso:&lt;/h3&gt;
 &lt;p style=&quot;text-align: justify;&quot;&gt;En el Colegio San Agustín, durante el recreo, se ha reportado que varios estudiantes observaron a un compañero de clase exhibiendo un comportamiento errático y violento hacia otros estudiantes sin motivo aparente. El orientador escolar fue informado de inmediato y ha activado la ruta de atención correspondiente.&lt;/p&gt;
@@ -8854,7 +8966,7 @@ as these can tend to be ambiguous."></unicode>
                    <string role="key" value="nextImageId"></string>
                    <int value="0"></int>
                    <string role="key" value="parentNode"></string>
-                   <none></none>
+                   <reference key="80"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="_correctAnswerInstruc"></string>
@@ -8893,6 +9005,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Levantamiento de la información, informar al rector y coordinar la intervención con la Policía Nacional para evaluar la situación de seguridad. Convocar al comité de convivencia escolar para realizar un análisis profundo del incidente y realizar acciones preventivas.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8917,7 +9031,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8945,6 +9059,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Levantamiento de la información, informar al rector, brindar apoyo emocional al estudiante afectado y a los testigos del incidente, sin necesidad de reportar la situación a las autoridades. Realizar un seguimiento con los padres del estudiante para evaluar la necesidad de asesoramiento adicional.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -8969,7 +9085,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -8997,6 +9113,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Levantamiento de la información, informar al rector, registrar el incidente en la &lt;strong&gt;plataforma SIUCE&lt;/strong&gt; y reportar al &lt;strong&gt;CRUE&lt;/strong&gt; para evaluar medidas de seguridad y asistencia médica si es necesario. Convocar al comité de convivencia escolar para discutir estrategias de intervención y prevención.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -9021,7 +9139,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
@@ -9049,6 +9167,8 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <unicode value="Option"></unicode>
                       <string role="key" value="anchor_names"></string>
                       <list></list>
+                      <string role="key" value="anchors_linked_from_fields"></string>
+                      <dictionary></dictionary>
                       <string role="key" value="content_w_resourcePaths"></string>
                       <unicode content="true" value="&lt;p style=&quot;text-align: justify;&quot;&gt;Levantamiento de la información, informar al rector, contactar al acudiente del estudiante afectado y discutir el incidente sin necesidad de informar al rector. Implementar medidas de contención en el aula y realizar seguimiento con el estudiante en los próximos días.&lt;/p&gt;"></unicode>
                       <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -9073,7 +9193,7 @@ Click on the &amp;lt;Add another option&amp;gt; button to add another answer."><
                       <string role="key" value="nextImageId"></string>
                       <int value="0"></int>
                       <string role="key" value="parentNode"></string>
-                      <none></none>
+                      <reference key="80"></reference>
                      </dictionary>
                     </instance>
                     <string role="key" value="idevice"></string>
